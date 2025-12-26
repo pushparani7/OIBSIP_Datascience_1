@@ -154,13 +154,6 @@ jupyter notebook spam_detection.ipynb
 python spam_detector.py
 ```
 
-### Option 3: Google Colab (Recommended)
-1. Open [Google Colab](https://colab.research.google.com)
-2. Upload `spam_detection_colab.ipynb`
-3. Mount Google Drive: `from google.colab import files`
-4. Upload `spam.csv` file
-5. Run all cells sequentially
-
 ### Quick Start Example
 ```python
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -353,51 +346,29 @@ Contributions are welcome! Here's how to contribute:
 
 ---
 
-## 📝 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+👤 Author
+PUSHPARANI.B
+Oasis Internship - Machine Learning Project
+https://www.linkedin.com/in/pushparani-b-839208337 https://github.com/pushparani7/
 
----
+🤝 Contributing
+Contributions are welcome! Feel free to:
 
-## 👤 Author
+Fork the repository
+Create a feature branch
+Submit a pull request
+📧 Contact & Support
+For questions or suggestions:
 
-**Your Name**
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 💻 GitHub: [@yourprofile](https://github.com/yourprofile)
-- 📧 Email: your.email@example.com
+Email: pushparanib7@gmail.com
+Connect on LinkedIn : https://www.linkedin.com/in/pushparani-b-839208337
+🙏 Acknowledgments
+Oasis Internship Program for the learning opportunity
+Scikit-learn documentation for excellent resources
+Data science community for inspiration and guidance
 
----
+⭐ If you found this helpful, please star the repository!
 
-## 🙏 Acknowledgments
 
-- **Dataset**: UCI Machine Learning Repository & Kaggle
-- **Inspiration**: Oasis Internship - Data Science Project Series
-- **References**:
-  - scikit-learn Documentation
-  - "Introduction to Information Retrieval" by Manning, Raghavan, Schütze
-  - Kaggle Email Spam Detection competitions
 
----
-
-## 📞 Support
-
-If you found this project helpful, please:
-- ⭐ Star this repository
-- 🐛 Report issues via GitHub Issues
-- 💬 Discuss ideas in Discussions tab
-- 🔄 Share improvements via Pull Requests
-
----
-
-## 📖 Additional Resources
-
-- [Naive Bayes Classifier](https://scikit-learn.org/stable/modules/naive_bayes.html)
-- [TF-IDF Vectorizer](https://scikit-learn.org/stable/modules/feature_extraction.html#tfidf-term-weighting)
-- [Classification Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html)
-- [ML Best Practices](https://developers.google.com/machine-learning/guides/rules-of-ml)
-
----
-
-**Last Updated**: December 26, 2024
-**Version**: 1.0
-**Status**: ✅ Completed
